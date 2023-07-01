@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">convertor</string>
+    <string name="temperature_convertor">Temperature Convertor</string>
+</resources>
